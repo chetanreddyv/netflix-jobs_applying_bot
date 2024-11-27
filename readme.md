@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository:**
     ```sh
-    git clone [https://github.com/chetanreddyv/netflix-jobs_applying_bot.git]
+    git clone (https://github.com/chetanreddyv/netflix-jobs_applying_bot.git)
     cd netflix-jobs_applying_bot
     ```
 
