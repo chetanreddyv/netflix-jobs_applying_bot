@@ -32,7 +32,7 @@ Make sure you have the following installed on your system:
 
 4. **Fill in your details in the `.env` file:**
     Create a `.env` file in the root directory of the project and add your configuration details. For example:
-    ```plaintext
+    ```sh
 RESUME_PATH=/Users/chetan/Documents/Resume.pdf
 FIRST_NAME=Chetan
 LAST_NAME=Valluru
